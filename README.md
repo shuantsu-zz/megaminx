@@ -1,0 +1,2 @@
+# megaminx
+Megaminx OLL trainer
